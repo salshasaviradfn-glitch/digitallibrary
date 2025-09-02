@@ -5,7 +5,7 @@ Selamat Datang di Perpustakaan Digital
 Berikut ini adalah Koleksi yang dimiliki:
 
 ## Koleksi 
-1. [KWU_SALSHA SAVIRA DIANINDRI F](ebook/KWU_SALSHA SAVIRA DIANINDRI F.pdf) - Salsha Savira, (2025)
+1. [KWU_SALSHA SAVIRA DIANINDRI F](ebook/KWU_SALSHA SAVIRA DIANINDRI F (099).pdf) - Salsha Savira, (2025)
    
 ---
 
