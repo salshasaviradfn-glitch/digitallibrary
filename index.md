@@ -13,7 +13,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 6. [LoriDorimenyalin](ebook/LoriDorimenyalin.pdf) - bookbot (2024)
 7. [SenangnyaMenolongAdik](ebook/SenangnyaMenolongAdik.pdf) - bookbot (2023)
 8. [JikaKamuTinggaldiBulan](ebook/JikaKamuTinggaldiBulan.pdf) - bookbot (2023)
-9. [JaritYang Mana?](ebook/JaritYangMana?.pdf) - bookbot (2023)
+9. [JaritYang Mana](ebook/JaritYangMana.pdf) - bookbot (2023)
 10. [AsyiknyaMenolong](ebook/AsyiknyaMenolong.pdf) - bookbot (2023)
 
 
