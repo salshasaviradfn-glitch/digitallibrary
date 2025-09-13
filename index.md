@@ -6,7 +6,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 
 ## Koleksi 
 1. [Transportasi](ebook/Transportasi.pdf) - bookbot (2024)
-2. [Belalai Tiwi](ebook/Belalai Tiwi.pdf) - bookbot (2024)
+2. [Belalai Tiwi](ebook/BelalaiTiwi.pdf) - bookbot (2024)
 
    
 ---
