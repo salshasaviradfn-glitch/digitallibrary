@@ -15,7 +15,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 8. [JikaKamuTinggaldiBulan](ebook/JikaKamuTinggaldiBulan.pdf) - bookbot (2023)
 9. [KacauBalau](ebook/KacauBalau.pdf) - bookbot (2024)
 10. [AsyiknyaMenolong](ebook/AsyiknyaMenolong.pdf) - bookbot (2023)
-11. [RingkasanMateriVR](ebook/RingkasanMateriVR.pdf) - SalshaSavira (2025)
+11. [RingkasanMateriVR](ebook/RingkasanMateriVR.pdf) - SalshaSavira (13040123140099)
 
 
    
