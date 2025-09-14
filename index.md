@@ -14,7 +14,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 7. [1984](ebook/1984.pdf) - George Orwell (1984)
 8. [StartwithWhy](ebook/StartwithWhy.pdf) - Simon Sinek (2009)
 9. [PrideandPrejudice](ebook/PrideandPrejudice.pdf) - Jane Austen (2024)
-10. [AsyiknyaMenolong](ebook/AsyiknyaMenolong.pdf) - bookbot (2023)
+10. [LittleWomen](ebook/LittleWomen.pdf) - Louisa May Alcott (2011)
 11. [RingkasanMateriVR](ebook/RingkasanMateriVR.pdf) - SalshaSavira (13040123140099)
 
 
